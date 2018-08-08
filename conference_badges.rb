@@ -23,7 +23,7 @@ def assign_rooms(speakers)
   room_messages
 end 
 
-def printer
+def printer(speakers)
   puts badge_messages && room_messages
 end 
   
