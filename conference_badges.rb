@@ -25,6 +25,7 @@ end
 
 def printer
   puts badge_messages && room_messages
+end 
   
   
   
